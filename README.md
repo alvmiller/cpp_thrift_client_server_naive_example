@@ -1,0 +1,2 @@
+# cpp_thrift_client_server_naive_example
+cpp_thrift_client_server_naive_example
